@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-tateti/static/css/main.0122965f.chunk.css",
+    "main.js": "/React-tateti/static/js/main.ae795a36.chunk.js",
+    "main.js.map": "/React-tateti/static/js/main.ae795a36.chunk.js.map",
+    "runtime-main.js": "/React-tateti/static/js/runtime-main.6b47b23f.js",
+    "runtime-main.js.map": "/React-tateti/static/js/runtime-main.6b47b23f.js.map",
+    "static/js/2.cbf1cc0f.chunk.js": "/React-tateti/static/js/2.cbf1cc0f.chunk.js",
+    "static/js/2.cbf1cc0f.chunk.js.map": "/React-tateti/static/js/2.cbf1cc0f.chunk.js.map",
+    "static/js/3.78bfece3.chunk.js": "/React-tateti/static/js/3.78bfece3.chunk.js",
+    "static/js/3.78bfece3.chunk.js.map": "/React-tateti/static/js/3.78bfece3.chunk.js.map",
+    "index.html": "/React-tateti/index.html",
+    "static/css/main.0122965f.chunk.css.map": "/React-tateti/static/css/main.0122965f.chunk.css.map",
+    "static/js/2.cbf1cc0f.chunk.js.LICENSE.txt": "/React-tateti/static/js/2.cbf1cc0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b47b23f.js",
+    "static/js/2.cbf1cc0f.chunk.js",
+    "static/css/main.0122965f.chunk.css",
+    "static/js/main.ae795a36.chunk.js"
+  ]
+}
